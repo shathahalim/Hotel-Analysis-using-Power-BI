@@ -77,19 +77,21 @@ The dashboard analyzes:
 
 ### Room & Assignment Analysis
 
-![Room & Assignment Analysis](screenshots/room-assignment.png)
+<img width="1322" height="743" alt="room-assignment" src="https://github.com/user-attachments/assets/3fa3aa58-a86e-4df1-8d35-29a2f571d600" />
+
 
 ### Guest Composition
 
-![Guest Composition](screenshots/guest-composition.png)
+<img width="1320" height="740" alt="guest-composition" src="https://github.com/user-attachments/assets/3f12237d-0e31-417d-a5f7-0b353515e182" />
+
 
 ### Booking Analysis
 
-![Booking Analysis](screenshots/booking-analysis.png)
+<img width="1320" height="742" alt="booking-analysis" src="https://github.com/user-attachments/assets/4f1e5f43-4166-4875-988b-99dfe0c7cb2f" />
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/customer-analysis.png)
+<img width="1325" height="741" alt="customer-analysis" src="https://github.com/user-attachments/assets/a0b1ee54-34bd-4e83-a319-930987387711" />
 
 ## Project Outcome
 
